@@ -184,7 +184,7 @@ for more information.
 
 <div class="row">
 <div class="col-md-6">
-<h3>Thursday, Jun 6</h3>
+<h3>Wednesday, Aug 28</h3>
 <table class="table table-striped">
 <tr> <td>09:00</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/">Workshop Overview</a></td> </tr>
 <tr> <td>09:30</td>  <td><a href="https://r4ds.had.co.nz/workflow-basics.html">Workflow: basics</a></td> </tr>
@@ -203,7 +203,7 @@ for more information.
 </table>
 </div>
 <div class="col-md-6">
-<h3>Friday, June 7</h3>
+<h3>Thursday, Aug 29</h3>
 <table class="table table-striped">
 <tr> <td>09:00</td>  <td><a href="https://r4ds.had.co.nz/data-visualisation.html">Data Visualisation</a></td> </tr>
 <tr> <td>10:45</td>  <td>Coffee</td> </tr>
