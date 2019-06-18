@@ -11,7 +11,7 @@ humantime: "9:00 am - 4:30 pm"
 startdate: 2019-08-28
 enddate: 2019-08-29
 instructor: ["Sue McClatchy", "TBD"]
-helper: ["TBD"]
+helper: ["Michael Wilczek"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: 62589890046
