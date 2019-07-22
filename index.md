@@ -10,7 +10,7 @@ humandate: "Aug 28-29, 2019"
 humantime: "9:00 am - 4:30 pm"
 startdate: 2019-08-28
 enddate: 2019-08-29
-instructor: ["Sue McClatchy", "TBD"]
+instructor: ["Sue McClatchy", "Dan Gatti"]
 helper: ["Michael Wilczek", "Angie Reed"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
