@@ -13,7 +13,7 @@ enddate: 2019-08-29
 instructor: ["Sue McClatchy", "Dan Gatti"]
 helper: ["Michael Wilczek", "Angie Reed"]
 email: ["susan.mcclatchy@jax.org"]
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes: https://pad.carpentries.org/2019-08-28-r-umaine
 eventbrite: 62589890046
 ---
 
@@ -187,9 +187,9 @@ for more information.
 <h3>Wednesday, Aug 28</h3>
 <table class="table table-striped">
 <tr> <td>09:00</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/">Workshop Overview</a></td> </tr>
-<tr> <td>09:30</td>  <td><a href="https://r4ds.had.co.nz/workflow-basics.html">Workflow: basics</a></td> </tr>
-<tr> <td>09:55</td>  <td><a href="https://r4ds.had.co.nz/workflow-scripts.html">Workflow: scripts</a></td> </tr>
-<tr> <td>10:25</td>  <td><a href="https://r4ds.had.co.nz/workflow-projects.html">Workflow: projects</a></td> </tr>
+<tr> <td>09:30</td>  <td><a href="https://swcarpentry.github.io/r-novice-gapminder/01-rstudio-intro/index.html">Introduction to R and RStudio
+</a></td> </tr>
+<tr> <td>10:25</td>  <td><a href="https://swcarpentry.github.io/r-novice-gapminder/02-project-intro/index.html">Project Management With RStudio</a></td> </tr>
 <tr> <td>10:45</td>  <td>Coffee</td> </tr>
 <tr> <td>11:00</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/03-seeking-help/">Seeking Help</a></td> </tr>
 <tr> <td>11:20</td>  <td><a href="https://r4ds.had.co.nz/vectors.html">Vectors</a></td> </tr>
