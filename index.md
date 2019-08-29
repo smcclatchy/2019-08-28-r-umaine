@@ -205,9 +205,9 @@ for more information.
 <div class="col-md-6">
 <h3>Thursday, Aug 29</h3>
 <table class="table table-striped">
-<tr> <td>09:00</td>  <td><a href="https://r4ds.had.co.nz/data-visualisation.html">Data Visualisation</a></td> </tr>
+<tr> <td>09:00</td>  <td><a href="https://swcarpentry.github.io/r-novice-gapminder/08-plot-ggplot2/index.html">Creating Publication-Quality Graphics with ggplot2</a></td> </tr>
 <tr> <td>10:45</td>  <td>Coffee</td> </tr>
-<tr> <td>11:00</td>  <td><a href="https://r4ds.had.co.nz/transform.html">Data Transformation</a></td> </tr>
+<tr> <td>11:00</td>  <td><a href="https://swcarpentry.github.io/r-novice-gapminder/13-dplyr/index.html">Dataframe Manipulation with dplyr</a></td> </tr>
 <tr> <td>12:00</td>  <td><a href="https://r4ds.had.co.nz/exploratory-data-analysis.html">Exploratory Data Analysis</a></td> </tr>
 <tr> <td>12:30</td>  <td>Lunch break</td> </tr>
 <tr> <td>13:30</td>  <td><a href="https://r4ds.had.co.nz/exploratory-data-analysis.html">Exploratory Data Analysis (continued)</a></td> </tr>
